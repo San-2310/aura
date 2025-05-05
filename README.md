@@ -2,7 +2,7 @@
 
 ## 📱 Aura Demo Video
 
-[Demo Video](https://drive.google.com/file/d/1oDeECV5aOe2PenasbaEAKMc3r9Mx7s8U/view?usp=share_link)
+[Demo Video]([https://drive.google.com/file/d/1oDeECV5aOe2PenasbaEAKMc3r9Mx7s8U/view?usp=share_link](https://youtu.be/jYUu4EodcMU?si=oWVA5AFtPRZ5Aqjm))
 
 ## 🎯 About
 
